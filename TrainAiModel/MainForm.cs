@@ -29,37 +29,7 @@ namespace TrainAiModel
 {
 	public partial class MainForm : Form
 	{
-		// TODO
-
-		// GUI:
-		// Set specific train/val images
-		// OpenCV.SelectROI -> interesting for choosing ROI by user
-		// Blob per image gui ...
-
-		// Model calculations:
-		// New loss functions: pixel accuracy, mean pixel accuracy and IoU, mean-IoU
-		// maybe interesting: https://github.com/jocpae/clDice
-		// Std/mean calculation per image to per dataset:
-		// https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/Basics/pytorch_std_mean.py
-
-		// Refactor:
-		// Switch Db.cs to DataBase.cs: Image_DataBase image_db = new Image_DataBase(DataPath);
-		// Refactor model to sequential
-
-		// Features:
-		// DataAugmentation
-		// Batch size calculation by estimating memory need:
-		// https://discuss.pytorch.org/t/resnet-50-takes-10-13gb-to-run-with-batch-size-of-96/117402/2
-
-		// Memory/calculations efficiency
-		// BFloat16: https://github.com/dotnet/runtime/issues/96295 end of the year with .NET 9
-		// AMP work in progress: https://github.com/dotnet/TorchSharp/pull/1235
-
-		// New models for:
-		// OCR
-		// Search points
-
-
+		
 		private DataLogger? plotTrainLoss;
 		private DataLogger? plotValLoss;
 		private CancellationTokenSource? tokenSource;

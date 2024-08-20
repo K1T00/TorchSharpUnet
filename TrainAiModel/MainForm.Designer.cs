@@ -568,11 +568,11 @@
 			ckbWithBoarderPadding.AutoSize = true;
 			ckbWithBoarderPadding.CheckAlign = ContentAlignment.MiddleRight;
 			ckbWithBoarderPadding.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold);
-			ckbWithBoarderPadding.Location = new Point(26, 229);
+			ckbWithBoarderPadding.Location = new Point(82, 229);
 			ckbWithBoarderPadding.Name = "ckbWithBoarderPadding";
-			ckbWithBoarderPadding.Size = new Size(219, 29);
+			ckbWithBoarderPadding.Size = new Size(163, 29);
 			ckbWithBoarderPadding.TabIndex = 56;
-			ckbWithBoarderPadding.Text = "With boarder padding";
+			ckbWithBoarderPadding.Text = "Border padding";
 			ckbWithBoarderPadding.UseVisualStyleBackColor = true;
 			// 
 			// txbSplitTrainValidationSet
@@ -637,13 +637,13 @@
 			// 
 			toolStripMenuItem1.DropDownItems.AddRange(new ToolStripItem[] { exitToolStripMenuItem });
 			toolStripMenuItem1.Name = "toolStripMenuItem1";
-			toolStripMenuItem1.Size = new Size(46, 20);
-			toolStripMenuItem1.Text = "Datei";
+			toolStripMenuItem1.Size = new Size(37, 20);
+			toolStripMenuItem1.Text = "File";
 			// 
 			// exitToolStripMenuItem
 			// 
 			exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-			exitToolStripMenuItem.Size = new Size(93, 22);
+			exitToolStripMenuItem.Size = new Size(180, 22);
 			exitToolStripMenuItem.Text = "Exit";
 			exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
 			// 
@@ -793,7 +793,7 @@
 			label23.Name = "label23";
 			label23.Size = new Size(219, 32);
 			label23.TabIndex = 71;
-			label23.Text = "Data preperation:";
+			label23.Text = "Data preparation:";
 			// 
 			// panel1
 			// 
