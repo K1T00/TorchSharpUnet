@@ -13,6 +13,8 @@ The TrainAiModel WinForms application expects a folder structure as follows
 
 ![UNet Model structure](Doc/folderStructure.jpg)
 
+DATA.zip is included where everything has been setup correctly.
+
 You can set some parameters in the GUI
 
 ![UNet Model structure](Doc/Gui.jpg)
