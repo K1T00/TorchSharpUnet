@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Db xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ThresholdHeatmaps>128</ThresholdHeatmaps>
-  <AmtDataset>240</AmtDataset>
-  <Roi>96</Roi>
-  <DownSampling>1</DownSampling>
-  <ProjectPath>D:\_DEV\_GITHUB\DATA\RetinaVessel\</ProjectPath>
-  <WithBoarderPadding>true</WithBoarderPadding>
-</Db>
