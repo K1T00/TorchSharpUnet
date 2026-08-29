@@ -1,0 +1,15 @@
+namespace VisionStudioAI.Core.IO
+{
+    public enum ProjectFolderType
+    {
+        Images,
+        Annotations,
+        Masks,
+        Results,
+        Logs,
+        Models,
+        SlicedImages,
+        SlicedMasks,
+        MasksHeatmaps
+    }
+}

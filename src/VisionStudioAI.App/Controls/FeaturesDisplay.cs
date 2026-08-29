@@ -1,0 +1,102 @@
+using VisionStudioAI.Core.Models;
+using static VisionStudioAI.Core.Utils.CoreUtils;
+
+namespace VisionStudioAI.App.Controls
+{
+    public partial class FeaturesDisplay : UserControl
+    {
+        public event EventHandler<Feature>? FeatureSelected;
+
+        private Label? selectedLabel;
+
+        public FeaturesDisplay()
+        {
+            InitializeComponent();
+        }
+
+        public Feature? SelectedFeature { get; private set; }
+
+        public void UpdateFeatures(List<Feature> features)
+        {
+            featuresGridLayoutPanel.Controls.Clear();
+            selectedLabel = null;
+
+            foreach (var f in features)
+            {
+                var textColor = GetContrastTextColor(Color.FromArgb(f.Argb));
+
+                var label = new Label
+                {
+                    Text = f.Name,
+                    BackColor = Color.FromArgb(f.Argb),
+                    ForeColor = textColor,
+                    AutoSize = true,
+                    BorderStyle = BorderStyle.FixedSingle,
+                    Margin = new Padding(5),
+                    Tag = f
+                };
+
+                featuresGridLayoutPanel.Controls.Add(label);
+
+                label.Click += (sender, e) =>
+                {
+                    if (sender is not Label clicked)
+                        return;
+
+                    ToggleSelection(clicked);
+                };
+
+                label.Paint += Label_Paint;
+            }
+        }
+
+        private void Label_Paint(object? sender, PaintEventArgs e)
+        {
+            if (sender is not Label lbl)
+                return;
+
+            if (lbl != selectedLabel)
+            {
+                return;
+            }
+
+            const int width = 5;
+            using var pen = new Pen(Color.Brown, width);
+            e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
+            e.Graphics.DrawRectangle(pen, 1, 1, lbl.Width - width, lbl.Height - width);
+        }
+
+        private void ToggleSelection(Label clicked)
+        {
+            selectedLabel = clicked;
+            SelectedFeature = GetFeature(clicked);
+
+            foreach (var lb in featuresGridLayoutPanel.Controls.OfType<Label>())
+            {
+                lb.Invalidate();
+            }
+
+            FeatureSelected?.Invoke(this, SelectedFeature);
+        }
+
+        public void SelectFeature(Feature feature)
+        {
+            foreach (var lb in featuresGridLayoutPanel.Controls.OfType<Label>())
+            {
+                var f = GetFeature(lb);
+                if (f.ClassId == feature.ClassId)
+                {
+                    ToggleSelection(lb);
+                    return;
+                }
+            }
+        }
+
+        private static Feature GetFeature(Label label)
+        {
+            if (label.Tag is not Feature f)
+                throw new InvalidOperationException("Label.Tag must contain a Feature.");
+            return f;
+        }
+    }
+}
