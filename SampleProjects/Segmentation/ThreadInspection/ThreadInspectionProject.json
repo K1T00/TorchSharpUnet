@@ -1,0 +1,592 @@
+{
+  "name": "ThreadInspectionProject",
+  "useCaseMode": "segmentation",
+  "images": [
+    {
+      "guid": "8aa85de9-b787-46c8-a549-db3e1c4d0e65",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\8aa85de9-b787-46c8-a549-db3e1c4d0e65.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 648,
+          "height": 486
+        },
+        "x": 0,
+        "y": 0,
+        "width": 648,
+        "height": 486,
+        "left": 0,
+        "top": 0,
+        "right": 648,
+        "bottom": 486,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 1905,
+          "fp": 71,
+          "fn": 81,
+          "tn": 312871,
+          "accuracy": 0.9995173499974279,
+          "precision": 0.9640688259060524,
+          "recall": 0.9592145015057442,
+          "specificity": 0.9997731208977702,
+          "dice": 0.9616355376048419,
+          "ioU": 0.9261059795774133,
+          "fpr": 0.0002268791021978441
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 344.1659,
+      "addedAt": "2026-01-05T15:55:05.0204538+01:00"
+    },
+    {
+      "guid": "b77c7721-0599-47df-bf53-f275c0a4002b",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\b77c7721-0599-47df-bf53-f275c0a4002b.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 648,
+          "height": 486
+        },
+        "x": 0,
+        "y": 0,
+        "width": 648,
+        "height": 486,
+        "left": 0,
+        "top": 0,
+        "right": 648,
+        "bottom": 486,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 1998,
+          "fp": 72,
+          "fn": 110,
+          "tn": 312748,
+          "accuracy": 0.9994220901285056,
+          "precision": 0.965217391299685,
+          "recall": 0.947817836807648,
+          "specificity": 0.9997698356882232,
+          "dice": 0.9564384873122154,
+          "ioU": 0.9165137614636858,
+          "fpr": 0.00023016431174476598
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 80.2818,
+      "addedAt": "2026-01-05T15:55:05.0531834+01:00"
+    },
+    {
+      "guid": "6d366e13-b214-40ae-bad9-a69a2f57fae9",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\6d366e13-b214-40ae-bad9-a69a2f57fae9.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 341,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 256,
+          "height": 202
+        },
+        "x": 341,
+        "y": 0,
+        "width": 256,
+        "height": 202,
+        "left": 341,
+        "top": 0,
+        "right": 597,
+        "bottom": 202,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 998,
+          "fp": 21,
+          "fn": 279,
+          "tn": 313630,
+          "accuracy": 0.999047401310744,
+          "precision": 0.9793915603436762,
+          "recall": 0.7815191855851096,
+          "specificity": 0.9999330466027209,
+          "dice": 0.8693379790902904,
+          "ioU": 0.7688751925980827,
+          "fpr": 6.695339724725676E-05
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 23.2267,
+      "addedAt": "2026-01-05T15:55:05.0736065+01:00"
+    },
+    {
+      "guid": "5689e8a7-3a38-4ce7-ba65-5764287359e9",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\5689e8a7-3a38-4ce7-ba65-5764287359e9.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 16,
+          "y": 102
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 382,
+          "height": 268
+        },
+        "x": 16,
+        "y": 102,
+        "width": 382,
+        "height": 268,
+        "left": 16,
+        "top": 102,
+        "right": 398,
+        "bottom": 370,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 2084,
+          "fp": 83,
+          "fn": 93,
+          "tn": 312668,
+          "accuracy": 0.9994411421022901,
+          "precision": 0.9616982002724426,
+          "recall": 0.9572806614563286,
+          "specificity": 0.999734613158679,
+          "dice": 0.959484346222469,
+          "ioU": 0.9221238938012296,
+          "fpr": 0.00026538684128906814
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.9277,
+      "addedAt": "2026-01-05T15:55:05.0958369+01:00"
+    },
+    {
+      "guid": "2ed00cdb-5e4f-40d0-84ba-536035e83664",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\2ed00cdb-5e4f-40d0-84ba-536035e83664.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 140,
+          "y": 131
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 352,
+          "height": 354
+        },
+        "x": 140,
+        "y": 131,
+        "width": 352,
+        "height": 354,
+        "left": 140,
+        "top": 131,
+        "right": 492,
+        "bottom": 485,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 1252,
+          "fp": 50,
+          "fn": 83,
+          "tn": 313543,
+          "accuracy": 0.9995776812477455,
+          "precision": 0.961597542235318,
+          "recall": 0.9378277153487804,
+          "specificity": 0.9998405576654772,
+          "dice": 0.9495638983657583,
+          "ioU": 0.9039711191270472,
+          "fpr": 0.00015944233449087958
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 39.7098,
+      "addedAt": "2026-01-05T15:55:05.1155691+01:00"
+    },
+    {
+      "guid": "20a07b2f-596b-4d66-ac70-8684be149185",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\20a07b2f-596b-4d66-ac70-8684be149185.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 308,
+          "y": 15
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 340,
+          "height": 262
+        },
+        "x": 308,
+        "y": 15,
+        "width": 340,
+        "height": 262,
+        "left": 308,
+        "top": 15,
+        "right": 648,
+        "bottom": 277,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 1237,
+          "fp": 33,
+          "fn": 114,
+          "tn": 313544,
+          "accuracy": 0.9995332266422484,
+          "precision": 0.9740157480238267,
+          "recall": 0.9156180606890036,
+          "specificity": 0.9998947626898337,
+          "dice": 0.9439145364328733,
+          "ioU": 0.8937861271611721,
+          "fpr": 0.00010523731013434961
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 19.2053,
+      "addedAt": "2026-01-05T15:55:05.1345735+01:00"
+    },
+    {
+      "guid": "757c4acb-0d1e-4fee-a44f-7c805d23d94e",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\757c4acb-0d1e-4fee-a44f-7c805d23d94e.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 194,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 381,
+          "height": 324
+        },
+        "x": 194,
+        "y": 0,
+        "width": 381,
+        "height": 324,
+        "left": 194,
+        "top": 0,
+        "right": 575,
+        "bottom": 324,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 1437,
+          "fp": 327,
+          "fn": 603,
+          "tn": 312561,
+          "accuracy": 0.9970469440633732,
+          "precision": 0.814625850335518,
+          "recall": 0.7044117647024294,
+          "specificity": 0.9989548975991089,
+          "dice": 0.7555205047298751,
+          "ioU": 0.6070975918859016,
+          "fpr": 0.00104510240085906
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 27.0309,
+      "addedAt": "2026-01-05T15:55:05.1553076+01:00"
+    },
+    {
+      "guid": "7ca43c22-4995-416a-b9e7-e662aae800c7",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\7ca43c22-4995-416a-b9e7-e662aae800c7.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 190,
+          "y": 159
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 271,
+          "height": 286
+        },
+        "x": 190,
+        "y": 159,
+        "width": 271,
+        "height": 286,
+        "left": 190,
+        "top": 159,
+        "right": 461,
+        "bottom": 445,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 2057,
+          "fp": 78,
+          "fn": 96,
+          "tn": 312697,
+          "accuracy": 0.9994474927602182,
+          "precision": 0.963466042150054,
+          "recall": 0.95541105433834,
+          "specificity": 0.9997506194548477,
+          "dice": 0.9594216417888073,
+          "ioU": 0.9220080681267503,
+          "fpr": 0.00024938054512028615
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 21.9633,
+      "addedAt": "2026-01-05T15:55:05.1738265+01:00"
+    },
+    {
+      "guid": "cdc95f1b-176e-48cf-873a-672ee919c67d",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\cdc95f1b-176e-48cf-873a-672ee919c67d.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 102,
+          "y": 99
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 261,
+          "height": 274
+        },
+        "x": 102,
+        "y": 99,
+        "width": 261,
+        "height": 274,
+        "left": 102,
+        "top": 99,
+        "right": 363,
+        "bottom": 373,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 68,
+          "fp": 56,
+          "fn": 1209,
+          "tn": 313595,
+          "accuracy": 0.9959832088604063,
+          "precision": 0.5483870967299688,
+          "recall": 0.053249804228243935,
+          "specificity": 0.9998214576073088,
+          "dice": 0.09707351891436779,
+          "ioU": 0.051012753187914386,
+          "fpr": 0.00017854239265935136
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 15.4984,
+      "addedAt": "2026-01-05T15:55:05.1973994+01:00"
+    },
+    {
+      "guid": "5f4cc5e8-c11f-46a6-97a4-e22922e7ec3a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\Segmentation\\ThreadInspection\\Images\\5f4cc5e8-c11f-46a6-97a4-e22922e7ec3a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 249,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 379,
+          "height": 273
+        },
+        "x": 249,
+        "y": 0,
+        "width": 379,
+        "height": 273,
+        "left": 249,
+        "top": 0,
+        "right": 628,
+        "bottom": 273,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 197,
+          "fp": 109,
+          "fn": 374,
+          "tn": 314248,
+          "accuracy": 0.9984663161103173,
+          "precision": 0.6437908496521637,
+          "recall": 0.34500875656138336,
+          "specificity": 0.9996532604649808,
+          "dice": 0.44925883693900504,
+          "ioU": 0.2897058823486808,
+          "fpr": 0.0003467395349872805
+        }
+      },
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 17.93,
+      "addedAt": "2026-01-05T15:55:05.2168683+01:00"
+    }
+  ],
+  "features": [
+    {
+      "classId": 1,
+      "name": "ThreadDefect",
+      "argb": -16711936
+    }
+  ],
+  "settings": {
+    "heatmapThreshold": 124,
+    "objectsDiameter": 0,
+    "preprocessingSettings": {
+      "normalization": {
+        "mean": [
+          0.64894944,
+          0.7896447,
+          0.7512139
+        ],
+        "std": [
+          0.21352583,
+          0.25408626,
+          0.2554285
+        ]
+      },
+      "trainAsGreyscale": false,
+      "downSample": 0,
+      "sliceSize": 48,
+      "borderPadding": false,
+      "trainOnlyFeatures": false
+    },
+    "trainModelSettings": {
+      "modelComplexity": "l3",
+      "device": "gpu"
+    },
+    "augmentationSettings": {
+      "augmentationMode": "standard",
+      "luminance": 0,
+      "contrast": 0,
+      "brightness": 0,
+      "noise": 0,
+      "gaussianBlur": 0,
+      "rotation": 0,
+      "flipVertical": false,
+      "flipHorizontal": false,
+      "relativeTranslation": 0,
+      "minScale": 0,
+      "maxScale": 0,
+      "horizontalShear": 0,
+      "verticalShear": 0
+    },
+    "trainingStoppingSettings": {
+      "maxIterationCount": 200,
+      "iterationWithoutImprovement": 0,
+      "maxTrainingTime": 0,
+      "minValidationError": 0
+    }
+  }
+}

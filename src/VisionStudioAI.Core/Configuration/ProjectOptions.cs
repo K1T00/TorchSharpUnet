@@ -1,0 +1,20 @@
+namespace VisionStudioAI.Core.Configuration
+{
+    public class ProjectOptions
+    {
+        public string ImagesFolder { get; } = "Images";
+        public string MasksFolder { get; } = "Masks";
+        public string AnnotationsFolder { get; } = "Annotations";
+        public string ResultsFolder { get; } = "Results";
+        public string LogsFolder { get; } = "Logs";
+        public string ModelsSubFolder { get; } = "Results/Models";
+        public string SlicedImagesSubFolder { get; } = "Results/Preprocessing/SlicedImages";
+        public string SlicedMasksSubFolder { get; } = "Results/Preprocessing/SlicedMasks";
+        public string MasksHeatmapsSubFolder { get; } = "Results/MasksHeatmaps";
+        public string DateTimeFormat { get; } = "yyyy_MM_dd_HH_mm_ss";
+        public string ModelFileName { get; } = "Model_";
+        public string TrainingSettingsFileName { get; } = "Trainingsettings_";
+        public string ImageExtension { get; } = ".png";
+        public string ModelExtension { get; } = ".bin";
+    }
+}

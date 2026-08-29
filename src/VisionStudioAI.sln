@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionStudioAI.App", "VisionStudioAI.App\VisionStudioAI.App.csproj", "{EE47D153-55B3-4784-9D3B-1D1D9B4CBE56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionStudioAI.ML", "VisionStudioAI.ML\VisionStudioAI.ML.csproj", "{CD0124EC-EEB3-414A-B728-1C57F369556C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionStudioAI.Core", "VisionStudioAI.Core\VisionStudioAI.Core.csproj", "{4375D508-9704-4525-97DF-D8B6F4F1FD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionStudioAI.SDK", "VisionStudioAI.SDK\VisionStudioAI.SDK.csproj", "{5C8B941F-A02B-4AC8-88FC-95F60B096EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionStudioAI.Tests", "VisionStudioAI.Tests\VisionStudioAI.Tests.csproj", "{E2F5DAC5-3359-43C1-92C1-7DDAF56A774A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyBridgeLoader", "PyBridgeLoader\PyBridgeLoader.csproj", "{9A18FD5A-BDD5-481B-9F40-41D8F23C996F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE47D153-55B3-4784-9D3B-1D1D9B4CBE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE47D153-55B3-4784-9D3B-1D1D9B4CBE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE47D153-55B3-4784-9D3B-1D1D9B4CBE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE47D153-55B3-4784-9D3B-1D1D9B4CBE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0124EC-EEB3-414A-B728-1C57F369556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0124EC-EEB3-414A-B728-1C57F369556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0124EC-EEB3-414A-B728-1C57F369556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0124EC-EEB3-414A-B728-1C57F369556C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4375D508-9704-4525-97DF-D8B6F4F1FD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4375D508-9704-4525-97DF-D8B6F4F1FD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4375D508-9704-4525-97DF-D8B6F4F1FD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4375D508-9704-4525-97DF-D8B6F4F1FD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8B941F-A02B-4AC8-88FC-95F60B096EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8B941F-A02B-4AC8-88FC-95F60B096EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8B941F-A02B-4AC8-88FC-95F60B096EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8B941F-A02B-4AC8-88FC-95F60B096EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F5DAC5-3359-43C1-92C1-7DDAF56A774A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F5DAC5-3359-43C1-92C1-7DDAF56A774A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F5DAC5-3359-43C1-92C1-7DDAF56A774A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F5DAC5-3359-43C1-92C1-7DDAF56A774A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A18FD5A-BDD5-481B-9F40-41D8F23C996F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A18FD5A-BDD5-481B-9F40-41D8F23C996F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A18FD5A-BDD5-481B-9F40-41D8F23C996F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A18FD5A-BDD5-481B-9F40-41D8F23C996F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5309E15E-AE72-4A43-A6D8-750ED3FA3316}
+	EndGlobalSection
+EndGlobal

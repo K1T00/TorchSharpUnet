@@ -1,0 +1,2938 @@
+{
+  "name": "ProjectLeather",
+  "useCaseMode": "anomalyDetection",
+  "images": [
+    {
+      "guid": "97d8d63b-f749-400b-9aa1-02033f97118b",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\97d8d63b-f749-400b-9aa1-02033f97118b.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 59.4737,
+      "addedAt": "2026-08-23T11:43:43.4801841+02:00"
+    },
+    {
+      "guid": "6debd566-a487-40fb-a9ae-901e52f1929d",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\6debd566-a487-40fb-a9ae-901e52f1929d.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 55.3921,
+      "addedAt": "2026-08-23T11:43:43.523546+02:00"
+    },
+    {
+      "guid": "f2144167-7a50-4a89-a6f1-0f8605cc03a0",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\f2144167-7a50-4a89-a6f1-0f8605cc03a0.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 51.245,
+      "addedAt": "2026-08-23T11:43:43.5698672+02:00"
+    },
+    {
+      "guid": "972e67f4-7b91-44b8-895d-f6f4e5533420",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\972e67f4-7b91-44b8-895d-f6f4e5533420.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 53.1896,
+      "addedAt": "2026-08-23T11:43:43.6134804+02:00"
+    },
+    {
+      "guid": "0fd41f23-bf77-4cde-aec5-3ee91c9cd532",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\0fd41f23-bf77-4cde-aec5-3ee91c9cd532.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 55.0815,
+      "addedAt": "2026-08-23T11:43:43.656921+02:00"
+    },
+    {
+      "guid": "238b650b-3072-40ae-b60a-a957d81acaa8",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\238b650b-3072-40ae-b60a-a957d81acaa8.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 46.3698,
+      "addedAt": "2026-08-23T11:43:43.7003636+02:00"
+    },
+    {
+      "guid": "0e465cb2-6782-4f64-bdd5-7c56b0ba5acd",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\0e465cb2-6782-4f64-bdd5-7c56b0ba5acd.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 51.5344,
+      "addedAt": "2026-08-23T11:43:43.7437938+02:00"
+    },
+    {
+      "guid": "3af71f8e-2d51-4328-af41-4d32736f5533",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\3af71f8e-2d51-4328-af41-4d32736f5533.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 49.4643,
+      "addedAt": "2026-08-23T11:43:43.7893776+02:00"
+    },
+    {
+      "guid": "2d8aab0f-b223-4734-be40-d2bf3005fd75",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\2d8aab0f-b223-4734-be40-d2bf3005fd75.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 49.4008,
+      "addedAt": "2026-08-23T11:43:43.8340451+02:00"
+    },
+    {
+      "guid": "129feb32-3fda-4bc2-a743-ee38975afe0e",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\129feb32-3fda-4bc2-a743-ee38975afe0e.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 52.4371,
+      "addedAt": "2026-08-23T11:43:43.8775295+02:00"
+    },
+    {
+      "guid": "8c44064a-b237-4b5c-a7ce-d108581b39f5",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\8c44064a-b237-4b5c-a7ce-d108581b39f5.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 44.8744,
+      "addedAt": "2026-08-23T11:43:43.9221458+02:00"
+    },
+    {
+      "guid": "b81d684a-67be-4943-abe0-76d73fdedc4c",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\b81d684a-67be-4943-abe0-76d73fdedc4c.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.8988,
+      "addedAt": "2026-08-23T11:43:43.9685255+02:00"
+    },
+    {
+      "guid": "e1e48099-81ad-432e-9f6c-4fa22c876fb3",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\e1e48099-81ad-432e-9f6c-4fa22c876fb3.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.198,
+      "addedAt": "2026-08-23T11:43:44.0114642+02:00"
+    },
+    {
+      "guid": "a1d42424-7904-47ec-a4eb-6d0f113bf481",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\a1d42424-7904-47ec-a4eb-6d0f113bf481.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 34.0986,
+      "addedAt": "2026-08-23T11:43:44.0532924+02:00"
+    },
+    {
+      "guid": "c476b827-cced-428b-8946-bfd3914d3471",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c476b827-cced-428b-8946-bfd3914d3471.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.3808,
+      "addedAt": "2026-08-23T11:43:44.0983772+02:00"
+    },
+    {
+      "guid": "c57303bf-d2c1-4801-84d8-291093e24ece",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c57303bf-d2c1-4801-84d8-291093e24ece.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 34.0758,
+      "addedAt": "2026-08-23T11:43:44.1414898+02:00"
+    },
+    {
+      "guid": "a80add97-f497-4cfd-ab1d-6df7c144e4d0",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\a80add97-f497-4cfd-ab1d-6df7c144e4d0.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.6879,
+      "addedAt": "2026-08-23T11:43:44.1854273+02:00"
+    },
+    {
+      "guid": "6fbf7d63-9255-46e3-bd09-fb7e4d742262",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\6fbf7d63-9255-46e3-bd09-fb7e4d742262.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.3051,
+      "addedAt": "2026-08-23T11:43:44.2283938+02:00"
+    },
+    {
+      "guid": "87de3df8-834b-44db-aaef-f3ccd5b56873",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\87de3df8-834b-44db-aaef-f3ccd5b56873.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.5466,
+      "addedAt": "2026-08-23T11:43:44.270611+02:00"
+    },
+    {
+      "guid": "4451c1d4-d58e-4fa6-85db-dbe7ee5e38a2",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\4451c1d4-d58e-4fa6-85db-dbe7ee5e38a2.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.284,
+      "addedAt": "2026-08-23T11:43:44.3119756+02:00"
+    },
+    {
+      "guid": "33a9b408-f605-4ae4-99c4-79bacf4d7a05",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\33a9b408-f605-4ae4-99c4-79bacf4d7a05.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.7863,
+      "addedAt": "2026-08-23T11:43:44.3537416+02:00"
+    },
+    {
+      "guid": "e25cf136-4961-4175-be1b-f13924c0e843",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\e25cf136-4961-4175-be1b-f13924c0e843.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 34.988,
+      "addedAt": "2026-08-23T11:43:44.3954864+02:00"
+    },
+    {
+      "guid": "b9277224-042e-46de-8bed-7181c628c69f",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\b9277224-042e-46de-8bed-7181c628c69f.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.5303,
+      "addedAt": "2026-08-23T11:43:44.4360698+02:00"
+    },
+    {
+      "guid": "6b229076-9fda-4220-bafc-464b8e0b282a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\6b229076-9fda-4220-bafc-464b8e0b282a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.2054,
+      "addedAt": "2026-08-23T11:43:44.474739+02:00"
+    },
+    {
+      "guid": "7b976f6c-b197-4d4d-a644-5f8b46a3d0de",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\7b976f6c-b197-4d4d-a644-5f8b46a3d0de.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0.7652931213378906,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 34.8505,
+      "addedAt": "2026-08-23T11:43:44.5165255+02:00"
+    },
+    {
+      "guid": "3acadba2-a291-44ab-984b-ab0a29cb8c6e",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\3acadba2-a291-44ab-984b-ab0a29cb8c6e.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.8775,
+      "addedAt": "2026-08-23T11:43:44.5592415+02:00"
+    },
+    {
+      "guid": "b324f6f2-04ff-4660-803f-1c4458f870aa",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\b324f6f2-04ff-4660-803f-1c4458f870aa.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.6887,
+      "addedAt": "2026-08-23T11:43:44.6028006+02:00"
+    },
+    {
+      "guid": "797ac65d-994c-4921-8011-1f76992c235a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\797ac65d-994c-4921-8011-1f76992c235a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.6289,
+      "addedAt": "2026-08-23T11:43:44.6453106+02:00"
+    },
+    {
+      "guid": "c6a714f3-92bf-428e-8e9a-c82b9d68d69a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c6a714f3-92bf-428e-8e9a-c82b9d68d69a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 34.4971,
+      "addedAt": "2026-08-23T11:43:44.6874712+02:00"
+    },
+    {
+      "guid": "c617279d-5455-4457-8694-010c39248bca",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c617279d-5455-4457-8694-010c39248bca.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.7389,
+      "addedAt": "2026-08-23T11:43:44.7288379+02:00"
+    },
+    {
+      "guid": "cefff502-902e-4012-9213-30ddbb8d6a86",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\cefff502-902e-4012-9213-30ddbb8d6a86.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.2931,
+      "addedAt": "2026-08-23T11:43:44.7721972+02:00"
+    },
+    {
+      "guid": "cd383930-887a-4f84-9d0d-cab42b78ba2f",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\cd383930-887a-4f84-9d0d-cab42b78ba2f.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 37.5885,
+      "addedAt": "2026-08-23T11:43:44.8158359+02:00"
+    },
+    {
+      "guid": "117e5f7d-30f8-4171-8bbf-68999d832d34",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\117e5f7d-30f8-4171-8bbf-68999d832d34.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 38.6819,
+      "addedAt": "2026-08-23T11:43:44.8574856+02:00"
+    },
+    {
+      "guid": "e8fb3a5f-47fa-413c-83a6-0c8a34ea3a32",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\e8fb3a5f-47fa-413c-83a6-0c8a34ea3a32.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.5212,
+      "addedAt": "2026-08-23T11:43:44.8997279+02:00"
+    },
+    {
+      "guid": "9feb63e8-d070-4569-bbf5-b45561ef8eda",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\9feb63e8-d070-4569-bbf5-b45561ef8eda.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.6141,
+      "addedAt": "2026-08-23T11:43:44.9411026+02:00"
+    },
+    {
+      "guid": "48fc931f-326c-4bd8-8be6-6fdeaab8fc61",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\48fc931f-326c-4bd8-8be6-6fdeaab8fc61.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.0204,
+      "addedAt": "2026-08-23T11:43:44.9808549+02:00"
+    },
+    {
+      "guid": "9c2418da-3549-4d58-b0a0-376ed3b64102",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\9c2418da-3549-4d58-b0a0-376ed3b64102.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.2088,
+      "addedAt": "2026-08-23T11:43:45.023372+02:00"
+    },
+    {
+      "guid": "c853c772-d8c4-41e4-943f-485e986b8c80",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c853c772-d8c4-41e4-943f-485e986b8c80.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.6508,
+      "addedAt": "2026-08-23T11:43:51.9396153+02:00"
+    },
+    {
+      "guid": "aff01074-121f-4784-92da-675d50c9a8e3",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\aff01074-121f-4784-92da-675d50c9a8e3.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.9463,
+      "addedAt": "2026-08-23T11:43:51.9826494+02:00"
+    },
+    {
+      "guid": "2a533ae5-862e-4bd5-8b96-a3ea6d36d5e6",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\2a533ae5-862e-4bd5-8b96-a3ea6d36d5e6.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.2994,
+      "addedAt": "2026-08-23T11:43:52.0254022+02:00"
+    },
+    {
+      "guid": "c60446a4-551b-4555-9ab1-58da96a7d620",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c60446a4-551b-4555-9ab1-58da96a7d620.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.7455,
+      "addedAt": "2026-08-23T11:43:52.0663647+02:00"
+    },
+    {
+      "guid": "87b9e9db-c928-4bcd-b636-76ac2b8bae7b",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\87b9e9db-c928-4bcd-b636-76ac2b8bae7b.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.524,
+      "addedAt": "2026-08-23T11:43:52.1091487+02:00"
+    },
+    {
+      "guid": "5554a41c-f9f0-4550-88a6-e92987001eb1",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\5554a41c-f9f0-4550-88a6-e92987001eb1.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.0585,
+      "addedAt": "2026-08-23T11:43:52.1525147+02:00"
+    },
+    {
+      "guid": "d9551b1b-9fe1-41f0-9e37-2cffb52b7456",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\d9551b1b-9fe1-41f0-9e37-2cffb52b7456.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.1763,
+      "addedAt": "2026-08-23T11:43:52.1951754+02:00"
+    },
+    {
+      "guid": "759a7a08-32f4-4e0d-aa36-ac6227817335",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\759a7a08-32f4-4e0d-aa36-ac6227817335.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.6321,
+      "addedAt": "2026-08-23T11:43:52.2376982+02:00"
+    },
+    {
+      "guid": "b702206d-c397-44af-8f15-91849ef1dbf9",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\b702206d-c397-44af-8f15-91849ef1dbf9.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 40.1956,
+      "addedAt": "2026-08-23T11:43:52.2790603+02:00"
+    },
+    {
+      "guid": "93ffa0aa-3422-4b7b-a32f-02392381f514",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\93ffa0aa-3422-4b7b-a32f-02392381f514.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 37.6517,
+      "addedAt": "2026-08-23T11:43:52.3211917+02:00"
+    },
+    {
+      "guid": "db357193-0b4b-44e5-befb-b0d26a66a078",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\db357193-0b4b-44e5-befb-b0d26a66a078.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 49.1832,
+      "addedAt": "2026-08-23T11:43:52.3621944+02:00"
+    },
+    {
+      "guid": "ba7ed937-7941-4e98-b69b-cec4591e6984",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\ba7ed937-7941-4e98-b69b-cec4591e6984.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 48.4032,
+      "addedAt": "2026-08-23T11:43:52.4038397+02:00"
+    },
+    {
+      "guid": "bda2c611-5f0e-4ae7-89e3-6845fdd1cdd8",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\bda2c611-5f0e-4ae7-89e3-6845fdd1cdd8.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0.3191054165363312,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 38.3489,
+      "addedAt": "2026-08-23T11:43:52.4458594+02:00"
+    },
+    {
+      "guid": "d1c91836-4d3f-44c7-90dd-b3acf9727a4a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\d1c91836-4d3f-44c7-90dd-b3acf9727a4a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0.03301151841878891,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.2963,
+      "addedAt": "2026-08-23T11:43:52.4856358+02:00"
+    },
+    {
+      "guid": "5fd4a133-c7e3-4a66-a1cc-c0571840b9aa",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\5fd4a133-c7e3-4a66-a1cc-c0571840b9aa.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.2867,
+      "addedAt": "2026-08-23T11:43:52.5272856+02:00"
+    },
+    {
+      "guid": "8c494431-ef0e-4907-b614-e33cb5ebcb53",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\8c494431-ef0e-4907-b614-e33cb5ebcb53.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.9148290157318115,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.9091,
+      "addedAt": "2026-08-23T11:45:55.7774586+02:00"
+    },
+    {
+      "guid": "98861074-4f14-4211-bb41-65fc2c5965a0",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\98861074-4f14-4211-bb41-65fc2c5965a0.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.7730540037155151,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.282,
+      "addedAt": "2026-08-23T11:45:55.8217831+02:00"
+    },
+    {
+      "guid": "3b856496-fe67-45cd-a8a4-8f63812b225f",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\3b856496-fe67-45cd-a8a4-8f63812b225f.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.9094977378845215,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.9202,
+      "addedAt": "2026-08-23T11:45:55.8674976+02:00"
+    },
+    {
+      "guid": "88ff42b9-cd46-4fd6-8f4e-d9cc1ccec749",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\88ff42b9-cd46-4fd6-8f4e-d9cc1ccec749.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.8471956849098206,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.1827,
+      "addedAt": "2026-08-23T11:45:55.9144536+02:00"
+    },
+    {
+      "guid": "84a11980-182c-467f-b1e0-307bbdd61c0e",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\84a11980-182c-467f-b1e0-307bbdd61c0e.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.6226586103439331,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.1878,
+      "addedAt": "2026-08-23T11:45:55.9618551+02:00"
+    },
+    {
+      "guid": "0cc12e50-c2fe-4ccb-a7f0-341f66fc082e",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\0cc12e50-c2fe-4ccb-a7f0-341f66fc082e.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.9424606561660767,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.8646,
+      "addedAt": "2026-08-23T11:45:56.0099409+02:00"
+    },
+    {
+      "guid": "9e344872-87dd-48fa-acdd-f67a2d78e972",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\9e344872-87dd-48fa-acdd-f67a2d78e972.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.657921314239502,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.4863,
+      "addedAt": "2026-08-23T11:46:05.0998142+02:00"
+    },
+    {
+      "guid": "ab5b9c48-3fa8-4b1e-b856-21e1fbdbdf08",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\ab5b9c48-3fa8-4b1e-b856-21e1fbdbdf08.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.33020874857902527,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.4256,
+      "addedAt": "2026-08-23T11:46:05.1451693+02:00"
+    },
+    {
+      "guid": "46e040e9-e611-4499-8981-315c61ed62d7",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\46e040e9-e611-4499-8981-315c61ed62d7.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.9420960545539856,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.2686,
+      "addedAt": "2026-08-23T11:46:05.1912364+02:00"
+    },
+    {
+      "guid": "5adcd3ff-e417-4320-8879-a444526c5804",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\5adcd3ff-e417-4320-8879-a444526c5804.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.26605311036109924,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 29.7305,
+      "addedAt": "2026-08-23T11:46:05.2360643+02:00"
+    },
+    {
+      "guid": "8c427298-2b12-401e-9e7b-8fa086b7000a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\8c427298-2b12-401e-9e7b-8fa086b7000a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.34201738238334656,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 33.0289,
+      "addedAt": "2026-08-23T11:46:05.2812176+02:00"
+    },
+    {
+      "guid": "601675d9-e41b-447b-85db-e8bf1e4781e2",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\601675d9-e41b-447b-85db-e8bf1e4781e2.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 1,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.3315,
+      "addedAt": "2026-08-23T11:46:13.8576031+02:00"
+    },
+    {
+      "guid": "d8a74663-8585-46ea-9ca5-a3cd3e8d816a",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\d8a74663-8585-46ea-9ca5-a3cd3e8d816a.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.3806754946708679,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.5762,
+      "addedAt": "2026-08-23T11:46:13.9142371+02:00"
+    },
+    {
+      "guid": "c63e69ef-0dc2-4fc0-bcec-ad605b4b733b",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\c63e69ef-0dc2-4fc0-bcec-ad605b4b733b.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.5341207385063171,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 29.6582,
+      "addedAt": "2026-08-23T11:46:13.9679177+02:00"
+    },
+    {
+      "guid": "7cc7e343-23da-4516-8d59-16ded4e151e1",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\7cc7e343-23da-4516-8d59-16ded4e151e1.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.7933560013771057,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 32.183,
+      "addedAt": "2026-08-23T11:46:14.0219844+02:00"
+    },
+    {
+      "guid": "32e24382-e326-4ece-a8a9-ccc8dbcb24fa",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\32e24382-e326-4ece-a8a9-ccc8dbcb24fa.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.765088677406311,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.3614,
+      "addedAt": "2026-08-23T11:46:14.0737625+02:00"
+    },
+    {
+      "guid": "481455f0-423e-48f1-8157-167c99076f73",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\481455f0-423e-48f1-8157-167c99076f73.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 1,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 34.6192,
+      "addedAt": "2026-08-23T11:46:14.1242628+02:00"
+    },
+    {
+      "guid": "da1df3c3-8985-449a-8e65-7784f3a389f2",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\da1df3c3-8985-449a-8e65-7784f3a389f2.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.550927460193634,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 35.2184,
+      "addedAt": "2026-08-23T11:46:21.5406754+02:00"
+    },
+    {
+      "guid": "d8d3e704-4c1d-43ee-bce9-a5ee24aceb9b",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\d8d3e704-4c1d-43ee-bce9-a5ee24aceb9b.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.833646297454834,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.5773,
+      "addedAt": "2026-08-23T11:46:21.5944905+02:00"
+    },
+    {
+      "guid": "3d13eb04-0535-4e80-a257-901b77bc6837",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\3d13eb04-0535-4e80-a257-901b77bc6837.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.27353590726852417,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.0176,
+      "addedAt": "2026-08-23T11:46:21.6483102+02:00"
+    },
+    {
+      "guid": "45873f25-c953-426a-989d-76f2c36ba25d",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\45873f25-c953-426a-989d-76f2c36ba25d.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.4825868606567383,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 30.092,
+      "addedAt": "2026-08-23T11:46:21.7022971+02:00"
+    },
+    {
+      "guid": "8dc46339-8655-4a0b-ba3d-8b50e3acce46",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\AnomalyDetection\\LeatherInspection\\Images\\8dc46339-8655-4a0b-ba3d-8b50e3acce46.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 1024,
+        "height": 1024
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 1024,
+          "height": 1024
+        },
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1024,
+        "left": 0,
+        "top": 0,
+        "right": 1024,
+        "bottom": 1024,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "notOk",
+      "anomalyScore": 0.3742234706878662,
+      "predictedAnomalyLabel": "notOk",
+      "segmentationStats": {},
+      "annotationObjectLocations": [],
+      "inferenceObjectLocations": [],
+      "inferenceMs": 31.9287,
+      "addedAt": "2026-08-23T11:46:21.7560209+02:00"
+    }
+  ],
+  "features": [],
+  "settings": {
+    "heatmapThreshold": 219,
+    "objectsDiameter": 0,
+    "preprocessingSettings": {
+      "normalization": {
+        "mean": [
+          0.28334942
+        ],
+        "std": [
+          0.085758165
+        ]
+      },
+      "trainAsGreyscale": true,
+      "downSample": 1,
+      "sliceSize": 48,
+      "borderPadding": true,
+      "trainOnlyFeatures": false
+    },
+    "trainModelSettings": {
+      "modelComplexity": "l0",
+      "device": "gpu"
+    },
+    "augmentationSettings": {
+      "augmentationMode": "standard",
+      "luminance": 0,
+      "contrast": 0,
+      "brightness": 0,
+      "noise": 0,
+      "gaussianBlur": 0,
+      "rotation": 0,
+      "flipVertical": false,
+      "flipHorizontal": false,
+      "relativeTranslation": 0,
+      "minScale": 0,
+      "maxScale": 0,
+      "horizontalShear": 0,
+      "verticalShear": 0
+    },
+    "trainingStoppingSettings": {
+      "maxIterationCount": 200,
+      "iterationWithoutImprovement": 0,
+      "maxTrainingTime": 0,
+      "minValidationError": 0
+    }
+  }
+}

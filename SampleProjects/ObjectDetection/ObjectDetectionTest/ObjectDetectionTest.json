@@ -1,0 +1,1778 @@
+{
+  "name": "ObjectDetectionTest",
+  "useCaseMode": "objectDetection",
+  "images": [
+    {
+      "guid": "d6551a39-8c13-47be-af9e-4ea57bc67711",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\d6551a39-8c13-47be-af9e-4ea57bc67711.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 648,
+          "height": 486
+        },
+        "x": 0,
+        "y": 0,
+        "width": 648,
+        "height": 486,
+        "left": 0,
+        "top": 0,
+        "right": 648,
+        "bottom": 486,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 25208,
+          "fp": 296,
+          "fn": 392,
+          "tn": 289032,
+          "accuracy": 0.9978153736726808,
+          "precision": 0.9883939774149199,
+          "recall": 0.9846874999996154,
+          "specificity": 0.998976939667056,
+          "dice": 0.9865372573573524,
+          "ioU": 0.9734321902992843,
+          "fpr": 0.001023060332909327
+        },
+        "2": {
+          "tp": 0,
+          "fp": 80,
+          "fn": 0,
+          "tn": 314848,
+          "accuracy": 0.9997459736828418,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9997459736828418,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.0002540263171264462
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 322,
+            "y": 320
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 322,
+            "y": 319
+          },
+          "probabilityPercent": 98.84188034188034
+        }
+      ],
+      "inferenceMs": 49.7627,
+      "addedAt": "2026-05-10T11:01:49.107033+02:00"
+    },
+    {
+      "guid": "69ae0b99-2ebf-4760-b05e-04d4358d87bd",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\69ae0b99-2ebf-4760-b05e-04d4358d87bd.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 226,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 422,
+          "height": 301
+        },
+        "x": 226,
+        "y": 0,
+        "width": 422,
+        "height": 301,
+        "left": 226,
+        "top": 0,
+        "right": 648,
+        "bottom": 301,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 25248,
+          "fp": 304,
+          "fn": 352,
+          "tn": 289024,
+          "accuracy": 0.9979169841995313,
+          "precision": 0.9881026925481418,
+          "recall": 0.9862499999996147,
+          "specificity": 0.9989492893877883,
+          "dice": 0.9871754770095037,
+          "ioU": 0.9746757257562636,
+          "fpr": 0.0010507106121771467
+        },
+        "2": {
+          "tp": 0,
+          "fp": 144,
+          "fn": 0,
+          "tn": 314784,
+          "accuracy": 0.9995427526291406,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9995427526291406,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.0004572473708276032
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 450,
+            "y": 90
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 449,
+            "y": 91
+          },
+          "probabilityPercent": 99.06474098590843
+        }
+      ],
+      "inferenceMs": 21.6947,
+      "addedAt": "2026-05-10T11:01:49.138624+02:00"
+    },
+    {
+      "guid": "267d3abe-0e1d-4b9c-b4a7-e2e1b8efa9b6",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\267d3abe-0e1d-4b9c-b4a7-e2e1b8efa9b6.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 265,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 383,
+          "height": 228
+        },
+        "x": 265,
+        "y": 0,
+        "width": 383,
+        "height": 228,
+        "left": 265,
+        "top": 0,
+        "right": 648,
+        "bottom": 228,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "tn": 314928,
+          "accuracy": 0.9999999999999682,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9999999999999682,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0
+        },
+        "2": {
+          "tp": 24964,
+          "fp": 652,
+          "fn": 636,
+          "tn": 288676,
+          "accuracy": 0.9959101762942324,
+          "precision": 0.9745471580258531,
+          "recall": 0.975156249999619,
+          "specificity": 0.9977465022396381,
+          "dice": 0.9748516088720371,
+          "ioU": 0.9509370714608597,
+          "fpr": 0.0022534977603273013
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 495,
+            "y": 86
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 496,
+            "y": 87
+          },
+          "probabilityPercent": 98.19443927032498
+        }
+      ],
+      "inferenceMs": 23.0532,
+      "addedAt": "2026-05-10T11:01:49.1608796+02:00"
+    },
+    {
+      "guid": "f209cf37-a97d-491a-a322-1012574c5b39",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\f209cf37-a97d-491a-a322-1012574c5b39.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 154,
+          "y": 146
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 317,
+          "height": 315
+        },
+        "x": 154,
+        "y": 146,
+        "width": 317,
+        "height": 315,
+        "left": 154,
+        "top": 146,
+        "right": 471,
+        "bottom": 461,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "tn": 314928,
+          "accuracy": 0.9999999999999682,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9999999999999682,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0
+        },
+        "2": {
+          "tp": 25340,
+          "fp": 148,
+          "fn": 260,
+          "tn": 289180,
+          "accuracy": 0.9987044657826233,
+          "precision": 0.994193345887871,
+          "recall": 0.9898437499996133,
+          "specificity": 0.9994884698335107,
+          "dice": 0.992013780143871,
+          "ioU": 0.9841541090566319,
+          "fpr": 0.0005115301664546635
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 342,
+            "y": 325
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 341,
+            "y": 324
+          },
+          "probabilityPercent": 96.40671323688463
+        }
+      ],
+      "inferenceMs": 24.1701,
+      "addedAt": "2026-05-10T11:01:49.1829117+02:00"
+    },
+    {
+      "guid": "33276a11-c07b-4f32-9639-6da5a44123e8",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\33276a11-c07b-4f32-9639-6da5a44123e8.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 266,
+          "y": 16
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 376,
+          "height": 403
+        },
+        "x": 266,
+        "y": 16,
+        "width": 376,
+        "height": 403,
+        "left": 266,
+        "top": 16,
+        "right": 642,
+        "bottom": 419,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 25090,
+          "fp": 478,
+          "fn": 510,
+          "tn": 288850,
+          "accuracy": 0.9968627749834565,
+          "precision": 0.9813047559445474,
+          "recall": 0.9800781249996171,
+          "specificity": 0.9983478958137132,
+          "dice": 0.9806910569103775,
+          "ioU": 0.9621136590225623,
+          "fpr": 0.0016521041862522239
+        },
+        "2": {
+          "tp": 0,
+          "fp": 64,
+          "fn": 0,
+          "tn": 314864,
+          "accuracy": 0.9997967789462671,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9997967789462671,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.00020322105370115698
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 449,
+            "y": 210
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 449,
+            "y": 211
+          },
+          "probabilityPercent": 98.91798333456964
+        }
+      ],
+      "inferenceMs": 23.7437,
+      "addedAt": "2026-05-10T11:01:49.2051098+02:00"
+    },
+    {
+      "guid": "149770ba-81ee-4b63-a272-5bdf96b368d3",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\149770ba-81ee-4b63-a272-5bdf96b368d3.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 287,
+          "y": 7
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 361,
+          "height": 281
+        },
+        "x": 287,
+        "y": 7,
+        "width": 361,
+        "height": 281,
+        "left": 287,
+        "top": 7,
+        "right": 648,
+        "bottom": 288,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 25078,
+          "fp": 458,
+          "fn": 522,
+          "tn": 288870,
+          "accuracy": 0.9968881776151692,
+          "precision": 0.9820645363404675,
+          "recall": 0.9796093749996173,
+          "specificity": 0.9984170215118827,
+          "dice": 0.9808354192739008,
+          "ioU": 0.9623915879956395,
+          "fpr": 0.0015829784880826748
+        },
+        "2": {
+          "tp": 0,
+          "fp": 16,
+          "fn": 0,
+          "tn": 314912,
+          "accuracy": 0.9999491947365429,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9999491947365429,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 5.0805263425289244E-05
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 498,
+            "y": 137
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 499,
+            "y": 137
+          },
+          "probabilityPercent": 98.88189812007276
+        }
+      ],
+      "inferenceMs": 28.9826,
+      "addedAt": "2026-05-10T11:01:49.2276997+02:00"
+    },
+    {
+      "guid": "fa9821bb-cf43-4ebe-a480-fd25b9a600f3",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\fa9821bb-cf43-4ebe-a480-fd25b9a600f3.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 168,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 418,
+          "height": 342
+        },
+        "x": 168,
+        "y": 0,
+        "width": 418,
+        "height": 342,
+        "left": 168,
+        "top": 0,
+        "right": 586,
+        "bottom": 342,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 24935,
+          "fp": 633,
+          "fn": 665,
+          "tn": 288695,
+          "accuracy": 0.9958784230045916,
+          "precision": 0.9752424906128851,
+          "recall": 0.9740234374996195,
+          "specificity": 0.9978121716528991,
+          "dice": 0.9746325828640997,
+          "ioU": 0.9505203369797771,
+          "fpr": 0.0021878283470662297
+        },
+        "2": {
+          "tp": 0,
+          "fp": 32,
+          "fn": 0,
+          "tn": 314896,
+          "accuracy": 0.9998983894731176,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9998983894731176,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.00010161052685057849
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 389,
+            "y": 151
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 391,
+            "y": 151
+          },
+          "probabilityPercent": 99.1287598162691
+        }
+      ],
+      "inferenceMs": 32.2619,
+      "addedAt": "2026-05-10T11:01:49.2525813+02:00"
+    },
+    {
+      "guid": "fd7d1ed1-c9e7-4cd9-8dc8-42c913f07c5c",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\fd7d1ed1-c9e7-4cd9-8dc8-42c913f07c5c.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": false,
+          "x": 0,
+          "y": 84
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 418,
+          "height": 312
+        },
+        "x": 0,
+        "y": 84,
+        "width": 418,
+        "height": 312,
+        "left": 0,
+        "top": 84,
+        "right": 418,
+        "bottom": 396,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 24332,
+          "fp": 4180,
+          "fn": 1268,
+          "tn": 285148,
+          "accuracy": 0.9827008078036572,
+          "precision": 0.8533950617280958,
+          "recall": 0.9504687499996287,
+          "specificity": 0.9855527290825297,
+          "dice": 0.8993199290359072,
+          "ioU": 0.8170584284752125,
+          "fpr": 0.014447270917435766
+        },
+        "2": {
+          "tp": 0,
+          "fp": 2000,
+          "fn": 0,
+          "tn": 312928,
+          "accuracy": 0.9936493420718071,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9936493420718071,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.006350657928161156
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 214,
+            "y": 235
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 218,
+            "y": 224
+          },
+          "probabilityPercent": 98.65628266538015
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 361,
+            "y": 309
+          },
+          "probabilityPercent": 89.41176470588235
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 373,
+            "y": 333
+          },
+          "probabilityPercent": 90.06535947712418
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 357,
+            "y": 301
+          },
+          "probabilityPercent": 87.45098039215686
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 373,
+            "y": 301
+          },
+          "probabilityPercent": 89.41176470588235
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 375,
+            "y": 315
+          },
+          "probabilityPercent": 87.74509803921569
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 141,
+            "y": 341
+          },
+          "probabilityPercent": 88.23529411764706
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 211,
+            "y": 341
+          },
+          "probabilityPercent": 87.25490196078431
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 221,
+            "y": 341
+          },
+          "probabilityPercent": 86.66666666666667
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 237,
+            "y": 341
+          },
+          "probabilityPercent": 86.66666666666667
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 247,
+            "y": 341
+          },
+          "probabilityPercent": 90.3921568627451
+        }
+      ],
+      "inferenceMs": 31.7545,
+      "addedAt": "2026-05-10T11:01:49.2730137+02:00"
+    },
+    {
+      "guid": "1d7f2b87-06ef-43a0-8b4f-9fee561f87ed",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\1d7f2b87-06ef-43a0-8b4f-9fee561f87ed.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 648,
+          "height": 486
+        },
+        "x": 0,
+        "y": 0,
+        "width": 648,
+        "height": 486,
+        "left": 0,
+        "top": 0,
+        "right": 648,
+        "bottom": 486,
+        "isEmpty": false
+      },
+      "split": "train",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 0,
+          "fp": 19160,
+          "fn": 0,
+          "tn": 295768,
+          "accuracy": 0.9391606970481844,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9391606970481844,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.06083930295178387
+        },
+        "2": {
+          "tp": 22272,
+          "fp": 17568,
+          "fn": 3328,
+          "tn": 271760,
+          "accuracy": 0.9336483259665405,
+          "precision": 0.559036144578173,
+          "recall": 0.8699999999996602,
+          "specificity": 0.9392799867278334,
+          "dice": 0.6806845965769132,
+          "ioU": 0.5159377316529569,
+          "fpr": 0.060720013272131945
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 447,
+            "y": 156
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 139,
+            "y": 13
+          },
+          "probabilityPercent": 98.03365317758309
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 86,
+            "y": 52
+          },
+          "probabilityPercent": 94.08963585434174
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 34,
+            "y": 80
+          },
+          "probabilityPercent": 95.75350140056022
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 73,
+            "y": 89
+          },
+          "probabilityPercent": 91.37254901960785
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 515,
+            "y": 156
+          },
+          "probabilityPercent": 98.30065359477123
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 552,
+            "y": 180
+          },
+          "probabilityPercent": 96.07843137254902
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 553,
+            "y": 217
+          },
+          "probabilityPercent": 87.84313725490196
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 405,
+            "y": 261
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 413,
+            "y": 261
+          },
+          "probabilityPercent": 88.23529411764706
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 605,
+            "y": 261
+          },
+          "probabilityPercent": 98.03921568627452
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 508,
+            "y": 294
+          },
+          "probabilityPercent": 88.03921568627452
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 507,
+            "y": 318
+          },
+          "probabilityPercent": 92.91101055806939
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 129,
+            "y": 390
+          },
+          "probabilityPercent": 97.4475745633241
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 507,
+            "y": 465
+          },
+          "probabilityPercent": 94.86274509803921
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 435,
+            "y": 457
+          },
+          "probabilityPercent": 92.63157894736842
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 91,
+            "y": 9
+          },
+          "probabilityPercent": 87.05882352941177
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 193,
+            "y": 17
+          },
+          "probabilityPercent": 89.54248366013073
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 56,
+            "y": 34
+          },
+          "probabilityPercent": 91.08359133126935
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 29
+          },
+          "probabilityPercent": 86.27450980392157
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 124,
+            "y": 39
+          },
+          "probabilityPercent": 90.57635175282233
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 157,
+            "y": 29
+          },
+          "probabilityPercent": 91.37254901960785
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 21,
+            "y": 55
+          },
+          "probabilityPercent": 90.19607843137256
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 109,
+            "y": 61
+          },
+          "probabilityPercent": 89.41176470588235
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 17,
+            "y": 65
+          },
+          "probabilityPercent": 86.66666666666667
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 66,
+            "y": 104
+          },
+          "probabilityPercent": 92.5683853788429
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 438,
+            "y": 152
+          },
+          "probabilityPercent": 96.1833318086177
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 17,
+            "y": 75
+          },
+          "probabilityPercent": 87.45098039215686
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 21,
+            "y": 85
+          },
+          "probabilityPercent": 87.05882352941177
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 521,
+            "y": 105
+          },
+          "probabilityPercent": 90.98039215686275
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 35,
+            "y": 117
+          },
+          "probabilityPercent": 91.76470588235294
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 521,
+            "y": 117
+          },
+          "probabilityPercent": 87.84313725490196
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 565,
+            "y": 149
+          },
+          "probabilityPercent": 86.27450980392157
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 545,
+            "y": 213
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 565,
+            "y": 217
+          },
+          "probabilityPercent": 90.98039215686275
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 549,
+            "y": 225
+          },
+          "probabilityPercent": 86.66666666666667
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 376,
+            "y": 271
+          },
+          "probabilityPercent": 91.22171945701358
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 437,
+            "y": 270
+          },
+          "probabilityPercent": 90.80882352941177
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 389,
+            "y": 277
+          },
+          "probabilityPercent": 87.45098039215686
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 153,
+            "y": 301
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 415,
+            "y": 315
+          },
+          "probabilityPercent": 93.01960784313725
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 141,
+            "y": 309
+          },
+          "probabilityPercent": 87.84313725490196
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 498,
+            "y": 336
+          },
+          "probabilityPercent": 92.61822376009228
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 125,
+            "y": 345
+          },
+          "probabilityPercent": 89.41176470588235
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 115,
+            "y": 363
+          },
+          "probabilityPercent": 90.19607843137256
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 79,
+            "y": 406
+          },
+          "probabilityPercent": 90.0326797385621
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 476,
+            "y": 457
+          },
+          "probabilityPercent": 93.63720357252849
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 129,
+            "y": 421
+          },
+          "probabilityPercent": 86.66666666666667
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 129,
+            "y": 437
+          },
+          "probabilityPercent": 86.66666666666667
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 69,
+            "y": 445
+          },
+          "probabilityPercent": 86.27450980392157
+        }
+      ],
+      "inferenceMs": 55.5869,
+      "addedAt": "2026-05-10T11:01:49.293668+02:00"
+    },
+    {
+      "guid": "6e4bcc7d-b2bb-4f4e-9b36-70da9bf9efe7",
+      "path": "D:\\_DEV\\Ai\\DeepLearningProjects\\_deploy\\ObjectDetection\\ObjectDetectionTest\\Images\\6e4bcc7d-b2bb-4f4e-9b36-70da9bf9efe7.png",
+      "imageSize": {
+        "isEmpty": false,
+        "width": 648,
+        "height": 486
+      },
+      "roi": {
+        "location": {
+          "isEmpty": true,
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "isEmpty": false,
+          "width": 648,
+          "height": 486
+        },
+        "x": 0,
+        "y": 0,
+        "width": 648,
+        "height": 486,
+        "left": 0,
+        "top": 0,
+        "right": 648,
+        "bottom": 486,
+        "isEmpty": false
+      },
+      "split": "validate",
+      "anomalyLabel": "ok",
+      "anomalyScore": 0,
+      "predictedAnomalyLabel": "ok",
+      "segmentationStats": {
+        "1": {
+          "tp": 0,
+          "fp": 28656,
+          "fn": 0,
+          "tn": 286272,
+          "accuracy": 0.9090077732052751,
+          "precision": 0,
+          "recall": 0,
+          "specificity": 0.9090077732052751,
+          "dice": 0,
+          "ioU": 0,
+          "fpr": 0.09099222679469304
+        },
+        "2": {
+          "tp": 528,
+          "fp": 8992,
+          "fn": 25072,
+          "tn": 280336,
+          "accuracy": 0.8918355941675274,
+          "precision": 0.05546218487389132,
+          "recall": 0.02062499999999194,
+          "specificity": 0.9689210861029361,
+          "dice": 0.030068337129831986,
+          "ioU": 0.015263644773353591,
+          "fpr": 0.031078913897029284
+        }
+      },
+      "annotationObjectLocations": [
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 235,
+            "y": 208
+          },
+          "probabilityPercent": 0
+        }
+      ],
+      "inferenceObjectLocations": [
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 363,
+            "y": 199
+          },
+          "probabilityPercent": 98.12417167907024
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 188,
+            "y": 245
+          },
+          "probabilityPercent": 98.5753288657235
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 28,
+            "y": 380
+          },
+          "probabilityPercent": 98.18250377073906
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 369,
+            "y": 392
+          },
+          "probabilityPercent": 97.87629061286351
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 283,
+            "y": 385
+          },
+          "probabilityPercent": 95.6078431372549
+        },
+        {
+          "classId": 1,
+          "center": {
+            "isEmpty": false,
+            "x": 250,
+            "y": 414
+          },
+          "probabilityPercent": 94.63235294117646
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 29,
+            "y": 51
+          },
+          "probabilityPercent": 91.59663865546219
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 357,
+            "y": 109
+          },
+          "probabilityPercent": 88.23529411764706
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 374,
+            "y": 117
+          },
+          "probabilityPercent": 90.53221288515407
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 349,
+            "y": 117
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 341,
+            "y": 125
+          },
+          "probabilityPercent": 87.45098039215686
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 236,
+            "y": 232
+          },
+          "probabilityPercent": 92.02614379084966
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 39,
+            "y": 290
+          },
+          "probabilityPercent": 89.54248366013073
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 311
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 385,
+            "y": 305
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 369,
+            "y": 314
+          },
+          "probabilityPercent": 90.06535947712418
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 352,
+            "y": 334
+          },
+          "probabilityPercent": 88.62745098039215
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 11,
+            "y": 331
+          },
+          "probabilityPercent": 89.2156862745098
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 339
+          },
+          "probabilityPercent": 88.23529411764706
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 5,
+            "y": 343
+          },
+          "probabilityPercent": 89.01960784313725
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 333,
+            "y": 370
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 269,
+            "y": 367
+          },
+          "probabilityPercent": 87.25490196078431
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 302,
+            "y": 410
+          },
+          "probabilityPercent": 90.14379084967321
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 397
+          },
+          "probabilityPercent": 88.23529411764706
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 392,
+            "y": 400
+          },
+          "probabilityPercent": 89.31372549019608
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 326,
+            "y": 421
+          },
+          "probabilityPercent": 90.77124183006536
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 405
+          },
+          "probabilityPercent": 87.84313725490196
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 269,
+            "y": 409
+          },
+          "probabilityPercent": 87.05882352941177
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 417
+          },
+          "probabilityPercent": 87.71241830065358
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 273,
+            "y": 420
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 49,
+            "y": 433
+          },
+          "probabilityPercent": 87.71241830065358
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 76,
+            "y": 434
+          },
+          "probabilityPercent": 88.43137254901961
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 401,
+            "y": 433
+          },
+          "probabilityPercent": 89.80392156862744
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 19,
+            "y": 439
+          },
+          "probabilityPercent": 88.43137254901961
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 75,
+            "y": 457
+          },
+          "probabilityPercent": 89.05228758169936
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 50,
+            "y": 458
+          },
+          "probabilityPercent": 89.11764705882354
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 37,
+            "y": 461
+          },
+          "probabilityPercent": 89.01960784313725
+        },
+        {
+          "classId": 2,
+          "center": {
+            "isEmpty": false,
+            "x": 381,
+            "y": 461
+          },
+          "probabilityPercent": 88.62745098039215
+        }
+      ],
+      "inferenceMs": 55.0481,
+      "addedAt": "2026-05-10T11:01:49.3138123+02:00"
+    }
+  ],
+  "features": [
+    {
+      "classId": 1,
+      "name": "Part_A",
+      "argb": -16776961
+    },
+    {
+      "classId": 2,
+      "name": "Part_B",
+      "argb": -16744448
+    }
+  ],
+  "settings": {
+    "heatmapThreshold": 219,
+    "objectsDiameter": 85,
+    "preprocessingSettings": {
+      "normalization": {
+        "mean": [
+          0.5114378
+        ],
+        "std": [
+          0.4034387
+        ]
+      },
+      "trainAsGreyscale": true,
+      "downSample": 1,
+      "sliceSize": 96,
+      "borderPadding": true,
+      "trainOnlyFeatures": false
+    },
+    "trainModelSettings": {
+      "modelComplexity": "l1",
+      "device": "gpu"
+    },
+    "augmentationSettings": {
+      "augmentationMode": "standard",
+      "luminance": 0,
+      "contrast": 0,
+      "brightness": 0,
+      "noise": 0,
+      "gaussianBlur": 0,
+      "rotation": 0,
+      "flipVertical": false,
+      "flipHorizontal": false,
+      "relativeTranslation": 0,
+      "minScale": 0,
+      "maxScale": 0,
+      "horizontalShear": 0,
+      "verticalShear": 0
+    },
+    "trainingStoppingSettings": {
+      "maxIterationCount": 300,
+      "iterationWithoutImprovement": 0,
+      "maxTrainingTime": 0,
+      "minValidationError": 0
+    }
+  }
+}
